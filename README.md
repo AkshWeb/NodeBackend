@@ -221,9 +221,4 @@ Replace `PRODUCT_ID` with the actual MongoDB ObjectId.
 
 The API was tested using Postman. CRUD operations were verified against the MongoDB Atlas database.
 
-## Author
-
-**Lakshit Choudhary**  
-Computer Science and Engineering Student  
-BML Munjal University
 

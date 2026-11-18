@@ -227,6 +227,3 @@ The API was tested using Postman. CRUD operations were verified against the Mong
 Computer Science and Engineering Student  
 BML Munjal University
 
-## GitHub Repository
-
-https://github.com/lakshitchoudhary137/product-management-api
